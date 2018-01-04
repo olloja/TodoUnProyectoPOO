@@ -9,5 +9,5 @@ package GUI;
  * @author Rosario-Omar
  */
 public class NewClass1 {
-    
+    /*Mensaje de Netbeans 8.0.2*/
 }
