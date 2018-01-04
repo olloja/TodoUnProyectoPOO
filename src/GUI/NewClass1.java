@@ -11,4 +11,9 @@ package GUI;
 public class NewClass1 {
     /*Mensaje de Netbeans 8.0.2*/
     /*Mendsaje desde NetBeand 7.1.2*/
+    //System.out.println("Hola");
+    public static void main(String[] args)
+    {
+        //System.out.println("Hola");
+    }
 }
