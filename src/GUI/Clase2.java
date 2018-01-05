@@ -5,7 +5,8 @@
 package GUI;
 
 /**
- *
+ 
+ * 
  * @author Rosario-Omar
  */
 public class Clase2 {
